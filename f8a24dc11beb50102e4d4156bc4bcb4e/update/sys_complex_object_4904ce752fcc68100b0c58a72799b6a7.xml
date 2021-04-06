@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD8504ce7570cc68106a6b4c851e7a0ba7</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f8a24dc11beb50102e4d4156bc4bcb4e</scope_name>
+        <serialized_content>{"FlowDesigner:FD8504ce7570cc68106a6b4c851e7a0ba7":{"comment_count":"Integer","comment_count.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Comment count\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\",\"uiUniqueId\":\"90a94f4d-0d71-4d19-b046-fd0251fe8cd3\"}"},"shared":"Boolean","shared.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"True/False\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"boolean\",\"default_value\":\"\",\"label\":\"Shared\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"317c0417-4942-4212-9e17-fb254fc7ec3d\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"68b8b837-0f52-4c71-86a8-ed3cd7a55f7d\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ID\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"37e60daf-a89d-44f2-9d6f-6efb6fc7ce3a\"}"},"sync_id":"Integer","sync_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Sync ID\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\",\"uiUniqueId\":\"e909ee88-0d24-4b41-ad3b-356fdf8d4011\"}"},"favorite":"Boolean","favorite.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"True/False\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"boolean\",\"default_value\":\"\",\"label\":\"Favorite\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"98d1b612-d506-4a1a-8900-5bb26c721338\"}"},"order":"Integer","order.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Order\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"7af5c263-06d0-4423-a8f7-bcb90d5f933e\"}"}},"FlowDesigner:FD8504ce7570cc68106a6b4c851e7a0ba7.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"c5abeab4-9f1d-432d-aaf3-58adf9b68f99\",\"default_value\":\"\",\"label\":\"Project\",\"mandatory\":\"false\",\"uiUniqueId\":\"455f5584-3db4-4342-a092-429ceac2c29c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD8504ce7570cc68106a6b4c851e7a0ba7\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"848439ac-0479-4351-81d6-5df2946c224e\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-10-24 23:26:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4904ce752fcc68100b0c58a72799b6a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD8504ce7570cc68106a6b4c851e7a0ba7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Todoist Spoke" source="x_snc_ihtodoist">f8a24dc11beb50102e4d4156bc4bcb4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todoist Spoke">f8a24dc11beb50102e4d4156bc4bcb4e</sys_scope>
+        <sys_update_name>sys_complex_object_4904ce752fcc68100b0c58a72799b6a7</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-10-24 23:26:55</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

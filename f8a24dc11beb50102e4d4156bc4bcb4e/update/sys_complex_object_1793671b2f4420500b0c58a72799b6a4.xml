@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD5393671bcc442050e281287c281f6ea4</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f8a24dc11beb50102e4d4156bc4bcb4e</scope_name>
+        <serialized_content>{"FlowDesigner:FD5393671bcc442050e281287c281f6ea4":{"$COCollectionField":["Integer"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD5393671bcc442050e281287c281f6ea4.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Label Ids\",\"mandatory\":\"false\",\"child_name\":\"Label_Id\",\"uiUniqueId\":\"58ab2906-830c-4bb2-b0c9-30e6c07bfd8e\",\"uiTypeLabel\":\"Array.Integer\",\"co_type_name\":\"FD5393671bcc442050e281287c281f6ea4\",\"child_label\":\"Label Id\",\"child_type_label\":\"Integer\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.integer\",\"child_defaultValue\":\"\",\"child_type\":\"integer\",\"order\":\"7\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"8cfec400-d0ee-4173-b087-8411e5ada397\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-10-29 22:15:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1793671b2f4420500b0c58a72799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD5393671bcc442050e281287c281f6ea4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Todoist Spoke" source="x_snc_ihtodoist">f8a24dc11beb50102e4d4156bc4bcb4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todoist Spoke">f8a24dc11beb50102e4d4156bc4bcb4e</sys_scope>
+        <sys_update_name>sys_complex_object_1793671b2f4420500b0c58a72799b6a4</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-10-29 22:15:28</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
